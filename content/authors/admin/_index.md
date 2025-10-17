@@ -1,37 +1,26 @@
 ---
-# Display name
 title: Anika Murarka
 
-# Name pronunciation (optional)
 name_pronunciation: ''
 
-# Full name (for SEO)
-first_name: Anika 
+first_name: Anika
 last_name: Murarka
 
-# Pronouns (optional)
 pronouns: she/her
 
-# Status emoji
 status:
-  icon: 🚀
+  icon: "🚀"
 
-# Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Senior Software Engineer ( Applied AI)
+role: Senior Software Engineer (Applied AI)
 
-# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Wadhwani AI
     url: https://www.wadhwaniai.org/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:murarka.anika97@gmail.com'
@@ -50,9 +39,9 @@ profiles:
 interests:
   - Large Language Models
   - Recommender Systems
-  - Information Retreival
+  - Information Retrieval
   - AI Ethics
-  - Interpretibility
+  - Interpretability
   - Transformers
 
 education:
@@ -65,7 +54,6 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com/thesis.pdf'
-
   - area: BE Instrumentation and Control
     institution: Netaji Subhas Institute of Technology
     date_start: 2015-09-01
@@ -74,38 +62,34 @@ education:
       GPA: 8.2/10
 
 work:
-  - position: Senior Software Engineer ( Applied AI)
+  - position: Senior Software Engineer (Applied AI)
     company_name: Wadhwani AI
     company_url: 'https://www.wadhwaniai.org/'
     company_logo: ''
     date_start: 2022-07-01
     date_end: ''
-    summary: |2-
-     ● Worked in the Agricultural and Health domains to deliver high-impact ML-based applications.
-● Currently working to create a RAG solution for AWW and ASHA workers.
-● Worked on a pipeline to scrape data from news resources and feed it to the TB-related governments' system to
-validate and take appropriate action.
-● Leading a team of 6 people and end-to-end development of 7 projects, resulting in an 80% increase in operational
-efficiency.
-● Designed the database and architecture of multiple projects.
-● Worked with the Product Team to create proposals for funding and government integration
-● Worked with the Machine Learning Team for model integration and deployment.
-● End-to-end planning and implementation of the model training pipeline, including data collection and data
-annotation.
-● End-to-end implementation of the CD pipeline.
-● Represented the organization at multiple events like G20 (India), FAO (Thailand), GBC (Lucknow), etc
-  - position: Software Development Engineer 2 
+    summary: |
+      ● Worked in the Agricultural and Health domains to deliver high-impact ML-based applications.
+      ● Currently working to create a RAG solution for AWW and ASHA workers.
+      ● Worked on a pipeline to scrape data from news resources and feed it to the TB-related governments' system to validate and take appropriate action.
+      ● Leading a team of 6 people and end-to-end development of 7 projects, resulting in an 80% increase in operational efficiency.
+      ● Designed the database and architecture of multiple projects.
+      ● Worked with the Product Team to create proposals for funding and government integration.
+      ● Worked with the Machine Learning Team for model integration and deployment.
+      ● End-to-end planning and implementation of the model training pipeline, including data collection and data annotation.
+      ● End-to-end implementation of the CD pipeline.
+      ● Represented the organization at multiple events like G20 (India), FAO (Thailand), GBC (Lucknow), etc.
+  - position: Software Development Engineer 2
     company_name: Sociolla
     company_url: 'https://www.sociolla.com/'
     company_logo: ''
     date_start: 2021-08-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     summary: |
       ● Worked on MEVN stack to create new features and fix bugs on a huge range of microservice architectures.
-● Worked on chatbot integration with various 3rd party services like Wavecell and Bahasa.ai, and sockets for frontend
-communications.
-● Been a part of a mentorship program and multiple recruitment drives.
-● Regularly monitors the various health checks through Grafana and Kibana and optimizes/fixes the code accordingly.
+      ● Worked on chatbot integration with various 3rd party services like Wavecell and Bahasa.ai, and sockets for frontend communications.
+      ● Been a part of a mentorship program and multiple recruitment drives.
+      ● Regularly monitored the various health checks through Grafana and Kibana and optimized/fixed the code accordingly.
   - position: Software Development Engineer
     company_name: OYO Rooms
     company_url: 'https://www.oyorooms.com/'
@@ -113,14 +97,10 @@ communications.
     date_start: 2019-06-10
     date_end: 2020-05-31
     summary: |
-      ● Integrated SDKs like Firebase, Lighthouse, and services to improve and monitor the performance affecting metrics
-for the web.
-(Web Frontend Development Team) | June 2019-Dec 2019
-● Increased the number of users and the customer acquisition rate at a global level - USA, Japan, UK, India, and
-Brazil.
+      ● Integrated SDKs like Firebase, Lighthouse, and services to improve and monitor the performance affecting metrics for the web.
+      ● (Web Frontend Development Team) | June 2019-Dec 2019
+      ● Increased the number of users and the customer acquisition rate at a global level - USA, Japan, UK, India, and Brazil.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -159,10 +139,6 @@ languages:
   - name: Hindi
     percent: 90
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
 #   - title: Best Paper Award
 #     url: https://neurips.cc/
@@ -185,8 +161,7 @@ languages:
 #     icon: hero/academic-cap
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
-# ---
+---
 
 Anika Murarka is a Senior Software Product Engineer at Wadhwani AI with 5+ years of experience building AI solutions for health and agriculture. She leads ML and product teams to design and deploy scalable, socially impactful systems, including RAG-based tools for community health workers.
-
 Skilled in machine learning, deep learning, and full-stack development, Anika has previously worked at Sociolla and OYO Rooms, contributing to large-scale web and ML platforms. She holds an MS(R) in Information Technology from IIT Delhi and a B.E. from NSIT, with multiple open-source projects on GitHub and a Machine Learning Specialization (99.6%) from DeepLearning.AI.

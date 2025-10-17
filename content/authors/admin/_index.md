@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Anika Murarka
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Anika 
+last_name: Murarka
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,80 +23,101 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Senior Software Engineer ( Applied AI)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Wadhwani AI
+    url: https://www.wadhwaniai.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:murarka.anika97@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/anikamurarka
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/anikamurarka
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/apezoidal/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
+  - Recommender Systems
+  - Information Retreival
   - AI Ethics
+  - Interpretibility
+  - Transformers
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Masters in Research (AI Focus)
+    institution: Indian Institute of Technology, Delhi
+    date_start: 2024-09-01
+    date_end: 2026-09-01
+    summary: |
+      Working under Prof. Srikanta Bedathur on Recommender Systems
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+
+  - area: BE Instrumentation and Control
+    institution: Netaji Subhas Institute of Technology
     date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_end: 2019-05-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 8.2/10
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Senior Software Engineer ( Applied AI)
+    company_name: Wadhwani AI
+    company_url: 'https://www.wadhwaniai.org/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2022-07-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+     ● Worked in the Agricultural and Health domains to deliver high-impact ML-based applications.
+● Currently working to create a RAG solution for AWW and ASHA workers.
+● Worked on a pipeline to scrape data from news resources and feed it to the TB-related governments' system to
+validate and take appropriate action.
+● Leading a team of 6 people and end-to-end development of 7 projects, resulting in an 80% increase in operational
+efficiency.
+● Designed the database and architecture of multiple projects.
+● Worked with the Product Team to create proposals for funding and government integration
+● Worked with the Machine Learning Team for model integration and deployment.
+● End-to-end planning and implementation of the model training pipeline, including data collection and data
+annotation.
+● End-to-end implementation of the CD pipeline.
+● Represented the organization at multiple events like G20 (India), FAO (Thailand), GBC (Lucknow), etc
+  - position: Software Development Engineer 2 
+    company_name: Sociolla
+    company_url: 'https://www.sociolla.com/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2021-08-01
+    date_end: 2022-06-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      ● Worked on MEVN stack to create new features and fix bugs on a huge range of microservice architectures.
+● Worked on chatbot integration with various 3rd party services like Wavecell and Bahasa.ai, and sockets for frontend
+communications.
+● Been a part of a mentorship program and multiple recruitment drives.
+● Regularly monitors the various health checks through Grafana and Kibana and optimizes/fixes the code accordingly.
+  - position: Software Development Engineer
+    company_name: OYO Rooms
+    company_url: 'https://www.oyorooms.com/'
+    company_logo: ''
+    date_start: 2019-06-10
+    date_end: 2020-05-31
+    summary: |
+      ● Integrated SDKs like Firebase, Lighthouse, and services to improve and monitor the performance affecting metrics
+for the web.
+(Web Frontend Development Team) | June 2019-Dec 2019
+● Increased the number of users and the customer acquisition rate at a global level - USA, Japan, UK, India, and
+Brazil.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -135,35 +156,37 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Hindi
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
----
+# awards:
+#   - title: Best Paper Award
+#     url: https://neurips.cc/
+#     date: '2022-12-01'
+#     awarder: NeurIPS
+#     icon: hero/trophy
+#     summary: |
+#       Awarded for groundbreaking work on efficient training of large models.
+#   - title: AI Innovation Grant
+#     url: https://www.nsf.gov/
+#     date: '2021-06-15'
+#     awarder: National Science Foundation
+#     icon: hero/currency-dollar
+#     summary: |
+#       $500,000 grant for research in ethical AI development.
+#   - title: Outstanding PhD Thesis
+#     url: https://www.stanford.edu/
+#     date: '2019-06-30'
+#     awarder: Stanford University
+#     icon: hero/academic-cap
+#     summary: |
+#       Recognized for contributions to scaling laws in deep learning.
+# ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Anika Murarka is a Senior Software Product Engineer at Wadhwani AI with 5+ years of experience building AI solutions for health and agriculture. She leads ML and product teams to design and deploy scalable, socially impactful systems, including RAG-based tools for community health workers.
+
+Skilled in machine learning, deep learning, and full-stack development, Anika has previously worked at Sociolla and OYO Rooms, contributing to large-scale web and ML platforms. She holds an MS(R) in Information Technology from IIT Delhi and a B.E. from NSIT, with multiple open-source projects on GitHub and a Machine Learning Specialization (99.6%) from DeepLearning.AI.
